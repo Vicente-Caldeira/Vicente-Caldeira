@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 I’m a Computer Science student specializing in Artificial Intelligence at KU Leuven. My main interests lie in Machine Learning, Data Science, and Software Engineering.<br><br>🌱 I’m especially passionate about using technology for humanitarian and social good. I’ve contributed to two environmental projects and am currently looking for opportunities to volunteer my skills for impactful initiatives. If you know of a project making a difference that could use some help, feel free to reach out!<br><br>⚽ I’m also fascinated by the intersection of sports and AI. My current thesis with the Royal Belgian FA explores how Machine Learning can improve tactical analysis.
 
 
